@@ -20,28 +20,28 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 
 # 2026年周知文書改訂内容
 
-## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_sh_DRAFT.pdf)
+## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_sh_DRAFT.pdf)（⬅クリックすると表示します）
 
 - 表紙のイメージ変更
 - カラー変更
 - 制作ソフトの切り替え（別途説明）
 
-## [ＬＰ用](https://h-oooka.github.io/shuchibunsho/2026_LPgas_sh_DRAFT.pdf)
+## [ＬＰ用](https://h-oooka.github.io/shuchibunsho/2026_LPgas_sh_DRAFT.pdf)（⬅クリックすると表示します）
 
 - カラー変更
 
 ---
 
-[溶断用 2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_sh.pdf)
+[溶断用 2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_sh.pdf)（⬅クリックすると表示します）
 
 
-[ＬＰ用 2025](https://h-oooka.github.io/shuchibunsho/2025_LPgas_sh.pdf)
+[ＬＰ用 2025](https://h-oooka.github.io/shuchibunsho/2025_LPgas_sh.pdf)（⬅クリックすると表示します）
 
 
-[溶断用 2024](https://h-oooka.github.io/shuchibunsho/2024_yodan_sh.pdf)
+[溶断用 2024](https://h-oooka.github.io/shuchibunsho/2024_yodan_sh.pdf)（⬅クリックすると表示します）
 
 
-[ＬＰ用 2024](https://h-oooka.github.io/shuchibunsho/2024_LPgas_sh.pdf)
+[ＬＰ用 2024](https://h-oooka.github.io/shuchibunsho/2024_LPgas_sh.pdf)（⬅クリックすると表示します）
 
 ---
 https://h-oooka.github.io/shuchibunsho/draft_plan.html
