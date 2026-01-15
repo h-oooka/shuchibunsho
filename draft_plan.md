@@ -11,7 +11,7 @@ table{ width:100%; border-collapse:collapse; font-size:1rem; }
 th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 </style>
 
-[# 2026年周知文書改訂内容
+# 2026年周知文書改訂内容
 
 ## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_shuchi(DRAFT).pdf)
 
