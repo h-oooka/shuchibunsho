@@ -1,3 +1,9 @@
+---
+title: 周知文書最新改訂情報
+date: 2026-1-15
+author: hoooka
+---
+
 <style>
 .main-content, .page-content, body { font-size:18px; line-height:1.9; }
 h3{ font-size:1.8rem; margin:2rem 0 1rem; }
@@ -10,6 +16,7 @@ hr{ margin:1.6rem 0; }
 table{ width:100%; border-collapse:collapse; font-size:1rem; }
 th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 </style>
+
 
 # 2026年周知文書改訂内容
 
