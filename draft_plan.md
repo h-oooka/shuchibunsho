@@ -35,13 +35,13 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 [溶断用2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_sh.pdf)
 
 
-[ＬＰ用2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_LP.pdf)
+[ＬＰ用2025](https://h-oooka.github.io/shuchibunsho/2025_LPgas_sh.pdf)
 
 
 [溶断用2024](https://h-oooka.github.io/shuchibunsho/2024_yodan_sh.pdf)
 
 
-[ＬＰ用2024](https://h-oooka.github.io/shuchibunsho/2024_yodan_LP.pdf)
+[ＬＰ用2024](https://h-oooka.github.io/shuchibunsho/2024_LPgas_sh.pdf)
 
 ---
 https://h-oooka.github.io/shuchibunsho/draft_plan.html
