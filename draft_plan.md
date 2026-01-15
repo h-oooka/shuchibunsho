@@ -20,7 +20,7 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 
 # 2026年周知文書改訂内容
 
-## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_shuchi(DRAFT).pdf)
+## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_sh_DRAFT.pdf)
 
 - 表紙のイメージ変更
 - カラー変更
@@ -30,5 +30,8 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 
 - カラー変更
 
+---
 
-](https://h-oooka.github.io/shuchibunsho/draft_plan.html)
+[溶断用2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_sh_DRAFT.pdf)
+
+https://h-oooka.github.io/shuchibunsho/draft_plan.html
