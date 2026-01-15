@@ -26,12 +26,13 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 - カラー変更
 - 制作ソフトの切り替え（別途説明）
 
-## ＬＰ用
+## [ＬＰ用](https://h-oooka.github.io/shuchibunsho/2026_yodan_LP_DRAFT.pdf)
 
 - カラー変更
 
 ---
 
 [溶断用2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_sh_DRAFT.pdf)
+[ＬＰ用2025](https://h-oooka.github.io/shuchibunsho/2025_yodan_LP_DRAFT.pdf)
 
 https://h-oooka.github.io/shuchibunsho/draft_plan.html
