@@ -1,4 +1,4 @@
-# 2026年周知文書改訂内容
+[# 2026年周知文書改訂内容
 
 ## [溶断用](https://h-oooka.github.io/shuchibunsho/2026_yodan_shuchi(DRAFT).pdf)
 
@@ -9,3 +9,6 @@
 ## ＬＰ用
 
 - カラー変更
+
+
+](https://h-oooka.github.io/shuchibunsho/draft_plan.html)
