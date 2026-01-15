@@ -26,7 +26,7 @@ th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 - カラー変更
 - 制作ソフトの切り替え（別途説明）
 
-## [ＬＰ用](https://h-oooka.github.io/shuchibunsho/2026_yodan_LP_DRAFT.pdf)
+## [ＬＰ用](https://h-oooka.github.io/shuchibunsho/2026_LPgas_sh_DRAFT.pdf)
 
 - カラー変更
 
