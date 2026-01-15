@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f0f0; /* 背景色を薄いグレーに */
+  font-family: Arial, sans-serif; /* 文字を読みやすいフォントに */
+}
+
+h1 {
+  color: #3366cc; /* 見出しを青色に */
+  text-align: center; /* 中央寄せ */
+}
+
+button {
+  background-color: #ff9900; /* ボタンをオレンジ色に */
+  border-radius: 8px;        /* 角を丸くする */
+  padding: 10px 20px;
+}

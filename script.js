@@ -1,0 +1,3 @@
+function sayHello() {
+  alert("GitHub PagesÇ÷ÇÊÇ§Ç±ÇªÅI");
+}
